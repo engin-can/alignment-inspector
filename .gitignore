@@ -1,0 +1,21 @@
+# Package
+*.zip
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Source/unused icons (keep only icons/ folder)
+android-chrome-*.png
+apple-touch-icon.png
+favicon*.png
+favicon.ico
+site.webmanifest
+logo.png
+icon.png
+icon-128x128.png
