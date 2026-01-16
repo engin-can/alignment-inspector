@@ -42,14 +42,6 @@ A Chrome extension to visually inspect and compare element alignment on any webp
 ✅ = Aligned (within 0.5px)  
 ❌ = Misaligned (shows exact pixel difference)
 
-## Perfect for
-
-- Checking UI consistency across components
-- Verifying responsive design alignment
-- QA testing for pixel-perfect layouts
-- Design review and feedback
-- Learning CSS layout behavior
-
 ## License
 
 MIT License - feel free to use and modify.
